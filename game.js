@@ -344,7 +344,7 @@ function startText() {
   ctx.font = "30px Comic Sans MS";
   ctx.fillStyle = "white";
   ctx.textAlign = "center";
-  ctx.fillText("Avoid Blobs!", canvas.width / 2, canvas.height / 2 - 220);
+  ctx.fillText("Dont touch the circles", canvas.width / 2, canvas.height / 2 - 220);
 
   ctx.fillText(
     "Press Space to Start.",
