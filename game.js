@@ -310,7 +310,7 @@ function startText() {
 
   if (customized == 0) {
     ctx.fillText(
-      "Customize your Frame Size.",
+      "Gravity will pull you to the center. Be careful there's a circle there!",
       canvas.width / 2,
       canvas.height / 2 - 190
     );
